@@ -1,104 +1,130 @@
-# OpenPost
+<h1 align="center">OpenPost 🎨</h1>
 
-**OpenPost** 是一个开源仓库，专注于分享海报制作心得和提供现成的海报模板，帮助大家更轻松地设计出吸引人的海报和演示文稿。我本人是一名计算机专业的学生，不是专业的设计师，也不会花大量时间专注于设计领域。但现实情况是，在很多场合我们仍需要制作一些设计媒体，例如海报或 PPT。
+<p align="center">
+  <i>一个专注于分享海报制作心得和提供海报模板的开源仓库，助你轻松设计吸引人的海报和演示文稿</i>
+</p>
 
-在这个过程中，我发现很多身边的同学，编程风格非常优雅，代码就像诗句一样有条理。但在涉及到制作海报或演示文稿时，往往会遇到困难，不知道该如何下手。所以，我希望通过 **OpenPost** 这个项目，从一个程序员的视角出发，分享一些简单实用的设计思路，帮助大家快速搞定一份看起来还算美观的设计作品。
+---
 
-这个项目不仅是一个个人总结，也希望通过它能够聚集更多有类似需求的朋友，大家一起分享经验与资源，互相学习与进步。
+## 🌟 项目简介
 
-## 海报制作心得
+**OpenPost** 是一个开源项目，致力于分享设计思路和提供现成的海报模板，帮助大家在短时间内完成视觉美观的海报或 PPT。作为一名计算机专业的学生，我并不是专业设计师，也不会将大量时间用于设计领域。但在日常学习与活动中，海报和 PPT 制作需求却经常出现。
 
-站在程序员的视角来类比解释如何制作一份好的海报，可以通过一些编程概念和习惯与设计原则对比，帮助更好地理解每个方面：
+许多编程风格优雅的同学，在处理设计任务时常常不知从何入手。我希望通过 **OpenPost**，站在程序员的视角，分享简单实用的设计思路，帮助大家轻松上手设计，快速搞定一份看起来美观的作品。
+
+本项目不仅是个人的总结，也欢迎有类似需求的朋友一起加入，分享经验、互相学习，聚集更多资源和灵感。
+
+---
+
+## 🌈 海报制作心得
+
+从程序员的角度出发，我们可以借助编程概念来帮助理解海报设计的关键要素：
 
 ### 1. **设计工具心得：如何使用 Canva 等工具**
 
-你好！让我用更简单的中文解释一下你刚才的请求。
+Canva 类似于程序员用的代码编辑器，比如 VSCode 或 PyCharm。正如这些工具可以帮助自动补全和检查代码，Canva 等设计工具也提供了模板、图片库和排版工具，让非专业设计师也能轻松上手。
 
-想象一下，Canva 就像程序员用的开发工具，比如 VSCode 或 PyCharm。这些开发工具会帮你自动补全代码、检查错误，让你写代码更快更容易。而 Canva 这种设计工具呢，它提供了模板、图片库，还有一些很方便的排版工具，帮助你快速完成海报设计，即使你不是专业的设计师。
+- **建议**：像选择一个好用的 IDE 一样，选择一个适合的设计工具也很重要。对于初学者或快速完成任务的需求，推荐 **Canva 国际版**，其模板丰富，功能全面，特别适合需要团队协作的人群。
+- **优点**：相比 Photoshop 或 Illustrator 等专业工具，Canva 操作简单，适合不熟悉设计软件但需要快速设计的用户。
 
-**建议**：就像选一个好用的代码编辑器一样，找一个顺手的设计工具也很重要。多练习，用着顺手了，设计海报也会变得轻松得多。比如说，Canva 和 Figma 都是不错的选择，尤其是 Canva，因为它很容易上手，而且有很多现成的模板可用。
+### 2. **色彩运用：对比色、渐变色的搭配**
 
-**推荐使用 Canva 国际版**的原因是它设计轻便，功能现代化，非常适合日常的海报设计。和国内版本相比，国际版有更多的模板、图片资源和功能，特别适合那些需要团队协作设计的人。而且，通过团队版可以解锁更多高级功能。
+色彩搭配类似于编程中的命名规则或代码格式化。就像变量命名要清晰，代码层次分明，颜色的运用也需要保持一致性和对比度。
 
-相比 Photoshop 或 Illustrator 这些专业的设计工具，Canva 的操作更简单。它可以让你从头设计，或者通过已有的模板快速生成海报，非常适合那些对设计软件不太熟悉、但又想快速完成设计任务的人。
+- **建议**：遵循基本设计规范，通过工具生成调色板，确保不同颜色的对比足够清晰，避免视觉混乱。背景和文字色彩的对比应让重点信息一目了然。
 
-#### 总结建议：
-就像程序员选择一个趁手的 IDE 一样，选一个合适的设计工具同样重要。如果你是初学者，或者只是想快速做出一份还不错的设计作品，**Canva 国际版**绝对是个好选择。
+### 3. **排版技巧：文本和图像的布局**
+
+排版就像代码结构一样，需要逻辑清晰，层次分明。设计中，每个部分（如标题、图片、文本）可以理解为“模块”，布局时保持合理的空间和视觉平衡，避免拥挤或空洞。
+
+- **建议**：使用网格系统，如同编程时模块化思维，可以确保文本和图像的平衡，让用户清晰获取信息。
+
+### 4. **字体选择：匹配内容的字体风格**
+
+字体选择可类比编程中的 API 选择。你要为不同任务选择合适的 API，字体选择也应根据设计目标和内容性质来决定。例如，标题用粗字体增强视觉冲击，正文选择易读字体以提升阅读体验。
+
+---
+
+## 📂 模版分类
+
+为了便于查找和使用，我们将模版按用途分类为 PPT、海报和其他。每个模版均可直接在 Canva 上打开并编辑。
+
+---
+
+### 🎞️ PPT 模版
+
+- [2023 歌手大赛 PPT](https://www.canva.cn/design/DAGSsMqShUQ/lC68FFJL_RZc6qf7Q0M_8w/view?utm_content=DAGSsMqShUQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [2023 毛概课堂分享 PPT](https://www.canva.cn/design/DAGPq00V7qw/07OphCbFngpFrBn-hKpzBA/view?utm_content=DAGPq00V7qw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [2024 夏季超算宣讲会 PPT](https://www.canva.com/design/DAGMNoN9f5g/2v0a0ScCvkDkn3LzLHX5Aw/view?utm_content=DAGMNoN9f5g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [2024 秋季超算宣讲会 PPT](https://www.canva.com/design/DAGRM9AnbIc/VA1eSpX-cGtI_JFp7fG1kw/view?utm_content=DAGRM9AnbIc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [Hackathon PPT](https://www.canva.com/design/DAGDrYnaHT4/ryv0c4PrWAxVswZE_5uL_A/view?utm_content=DAGDrYnaHT4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [2024 开源操作系统宣讲 PPT](https://www.canva.com/design/DAGRue_leQE/VFXOncgibY5KvzKR7osPqg/view?utm_content=DAGRue_leQE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+
+---
+
+### 📢 海报模版
+
+- [横幅四张](https://www.canva.cn/design/DAFtfULmPCY/wSsPy-wCc1VnmO91Mod-lw/view?utm_content=DAFtfULmPCY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [ACM 基地招新海报](https://www.canva.cn/design/DAFt88MHSh0/SxkvdeJMmHmtoxGTMii4iA/view?utm_content=DAFt88MHSh0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [文艺部招新宣传海报](https://www.canva.cn/design/DAGSsE9Jb9w/gNzgPbqTpisvFvfczGxd9A/view?utm_content=DAGSsE9Jb9w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [2024 歌手大赛宣传海报](https://www.canva.cn/design/DAGBVvpKKo0/3GoTiIZc-dzohUepoMNj-A/view?utm_content=DAGBVvpKKo0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [2024 歌手大赛初赛 海报](https://www.canva.cn/design/DAF_S6UHohs/C7G-sZN7zt3vEXLMWgYMYw/view?utm_content=DAF_S6UHohs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [2024 开源操作系统活动宣传海报](https://www.canva.com/design/DAGRotLzhAs/EbDu7nDGezuVwGszvh1u5Q/view?utm_content=DAGRotLzhAs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [2024 秋季超算宣讲会宣传海报](https://www.canva.com/design/DAGREm0GxW4/Neluibsp8hKnZ3Vzahpn_g/view?utm_content=DAGREm0GxW4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [超算宣传传单 双面](https://www.canva.com/design/DAGNUjj66gM/Yr5BAagaybCY70xSqKvkHQ/view?utm_content=DAGNUjj66gM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [2024 夏季超算宣讲会 海报](https://www.canva.com/design/DAGREv0ss4c/RITf3oPKRTggCNNog-rYeA/view?utm_content=DAGREv0ss4c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [数计 CS2 比赛宣传海报](https://www.canva.com/design/DAFxVIV_pFQ/1zUSnqjDUdLEw7c2gfaRRw/edit?utm_content=DAFxVIV_pFQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
+### 🎨 其他设计模版
+
+- [Goodlab 本科生 logo](https://www.canva.com/design/DAGNiP4BprQ/5LxigPRMlScM4Yi7iySk6A/view?utm_content=DAGNiP4BprQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [NCUSCC 俱乐部成员 logo](https://www.canva.com/design/DAGMyXPt9PI/u4enrn9ofwTRwV4l3u8Nfw/view?utm_content=DAGMyXPt9PI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- [个人 logo](https://www.canva.com/design/DAGHO7qrST4/xmTs_UBTwiVADH7aWQ9G1g/edit?utm_content=DAGHO7qrST4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [2024 开源操作系统 NCU SWAG](https://www.canva.com/design/DAGSmPO4Aik/rfh46NtzBQ_G2nvYNRh2PA/view?utm_content=DAGSmPO4Aik&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
 
-### 2. **色彩运用：如何搭配色彩，如何运用对比色、渐变色等**
 
-色彩搭配类似于编程中的命名规则和代码格式化。就像变量命名需要清晰、统一，代码需要层次分明，颜色的运用也需要确保一致性与对比。例如，对比色相当于变量命名中的"突出"和"分层"，让用户快速分辨重点信息（如标题和副标题的颜色差异）。
-
-**建议**：通过遵循基本的设计规范，例如使用工具生成颜色调色板，确保不同颜色的对比能够清晰传达信息（如背景色和文字颜色的对比）。与调试代码时保证逻辑清晰一样，保持颜色和风格的一致性，避免视觉上的混乱。
-
-### 3. **排版技巧：文本和图像如何布局，如何保持视觉平衡**
-
-排版技巧与编程中的代码结构类似。在编写代码时，我们会尽量保持代码的逻辑清晰、注释恰当、缩进整齐。同样地，在海报设计中，信息的层次感和视觉平衡至关重要。我们可以把每个部分（标题、图片、文本）理解为代码模块，每个模块都应该放在合适的位置，减少“耦合”，提升可读性。
-
-**建议**：遵循网格系统（如编程时保持模块化思维），让各个元素之间保持合理的间距，确保文本和图像的平衡，不会让某一个区域显得过于拥挤或空白。
-
-### 4. **字体选择：字体风格与内容的匹配，如何选用字体**
-
-字体选择可以类比编程中的 API 选择。你要为不同的任务选择合适的 API，字体选择也要根据设计的目标受众和内容性质来选择。例如，代码中，选择一个适合任务的库可以提高代码效率；在设计中，选择一个合适的字体可以传达设计风格、情感和信息的层次。
-
-**建议**：像程序员需要了解库和框架的特性一样，设计师也需要熟悉不同字体的特点。标题可以使用更粗的字体来增强视觉冲击力，正文则适合使用易读性高的字体。
-
-### 总结：
-
-设计海报和编程相似，都需要遵循规范和逻辑，不论是工具使用、色彩搭配、布局安排，还是字体选择，核心在于提高效率和美观度，让信息传达更加清晰。在设计中，保持“简洁”和“可读性”如同编写优雅的代码一样重要。
-### 示例
-
-```markdown
-# 海报设计心得：色彩运用
-- **对比色**：通过使用对比色，可以让重要信息更加突出。例如，背景选择浅色，文字使用深色，以达到良好的可读性。
-- **渐变色的运用**：渐变色可以为海报增添层次感和动感，尤其适合用于标题部分。
-```
-
-## 现成海报的修改
-
-我们在 `templates` 目录中提供了多个现成的海报模板供修改和使用。你可以根据自己的需求直接下载并编辑这些模板。
-
-### 海报模板示例
-
-| 模板名称               | 预览        | 编辑链接   | 描述       |
-| ---------------------- | ----------- | ---------- | ---------- |
-| **讲座海报 v1.0**      | ![预览](./models/lecture_poster_v1.png) | [编辑 Canva](https://canva.com/link-to-edit) | 适用于学术讲座的简约风格设计 |
-| **招聘海报 v2.0**      | ![预览](./models/recruitment_poster_v2.png) | [编辑 Canva](https://canva.com/link-to-edit) | 用于社团或企业招聘的醒目设计 |
-| **科技讲座海报 v1.1**  | ![预览](./models/techtalk_poster_v1.png) | [编辑 Canva](https://canva.com/link-to-edit) | 科技讲座专用海报，包含赞助商区域 |
-
-### 模板说明示例
+### 模板使用示例
 
 ```markdown
 # 讲座海报模板（版本1.0）
-- **修改内容**：调整了标题字体，使其更加醒目；优化了排版，增加了底部的二维码区域。
+- **修改内容**：标题字体加粗；调整排版，增加底部二维码区域。
 - **预览效果**：
 ![海报预览](./models/lecture_poster_v1.png)
 ```
 
-## 社区协作和法律考量
+---
+
+## 🛠️ 社区协作和法律考量
 
 ### 贡献指南
 
-我们欢迎大家对 **OpenPost** 仓库贡献自己的海报设计或设计心得。你可以通过以下方式贡献：
-1. Fork 本仓库。
-2. 在 `poster_design_tips` 或 `templates` 目录中添加你的海报设计或修改建议。
-3. 提交 Pull Request，并简要描述你的贡献内容。
+欢迎大家为 **OpenPost** 项目贡献设计或心得。参与方式：
 
-具体贡献流程请查看 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+1. **Fork 本仓库**。
+2. **提交 Pull Request** 并简要描述你的贡献内容。
+
+具体流程请查看 [CONTRIBUTING.md](./CONTRIBUTING.md)。
 
 ### 开源许可
 
-我们推荐使用 **Creative Commons BY-NC-SA** 许可，允许他人在非商业用途下自由修改和共享，但必须署名并采用相同的许可协议发布。
+本项目推荐使用 **Creative Commons BY-NC-SA** 许可，允许非商业用途下自由修改和共享，要求署名并采用相同许可协议发布。
 
-## 展示与宣传
-
-为了更好地展示和宣传 **OpenPost** 仓库中的资源，你可以：
-- 在 `README.md` 文件中详细介绍项目的背景和未来规划。
-- 使用 GitHub Pages 创建一个展示页面，让用户可以在线预览和下载海报模板。
-  
 ---
 
-感谢参与 **OpenPost** 项目的建设！如果你有任何问题，请通过 issue 与我们联系，或发送邮件至 example@domain.com。
+## 🎉 展示与推广
+
+为更好展示和推广 **OpenPost** 的资源，你可以：
+
+- 在 `README.md` 中介绍项目背景及未来规划。
+- 使用 GitHub Pages 创建展示页面，让用户在线预览和下载模板。
+
+感谢参与 **OpenPost**！有任何问题，欢迎通过 issue 联系我们，或发送邮件至 example@domain.com。
+
+<p align="center">
+  <img src="https://link-to-footer-image.com" width="200" alt="感谢支持" />
+</p>
 ```
 
