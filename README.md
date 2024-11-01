@@ -84,17 +84,6 @@ Canva 类似于程序员用的代码编辑器，比如 VSCode 或 PyCharm。正�
 - [个人 logo](https://www.canva.com/design/DAGHO7qrST4/xmTs_UBTwiVADH7aWQ9G1g/edit?utm_content=DAGHO7qrST4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [2024 开源操作系统 NCU SWAG](https://www.canva.com/design/DAGSmPO4Aik/rfh46NtzBQ_G2nvYNRh2PA/view?utm_content=DAGSmPO4Aik&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-
-
-### 模板使用示例
-
-```markdown
-# 讲座海报模板（版本1.0）
-- **修改内容**：标题字体加粗；调整排版，增加底部二维码区域。
-- **预览效果**：
-![海报预览](./models/lecture_poster_v1.png)
-```
-
 ---
 
 ## 🛠️ 社区协作和法律考量
