@@ -114,7 +114,7 @@ Canva 类似于程序员用的代码编辑器，比如 VSCode 或 PyCharm。正�
 
 ### 开源许可
 
-本项目推荐使用 **Creative Commons BY-NC-SA** 许可，允许非商业用途下自由修改和共享，要求署名并采用相同许可协议发布。
+本项目推荐使用 **CC0-1.0 license** 许可，允许非商业用途下自由修改和共享，要求署名并采用相同许可协议发布。
 
 ---
 
@@ -125,7 +125,7 @@ Canva 类似于程序员用的代码编辑器，比如 VSCode 或 PyCharm。正�
 - 在 `README.md` 中介绍项目背景及未来规划。
 - 使用 GitHub Pages 创建展示页面，让用户在线预览和下载模板。
 
-感谢参与 **OpenPost**！有任何问题，欢迎通过 issue 联系我们，或发送邮件至 example@domain.com。
+感谢参与 **OpenPost**！有任何问题，欢迎通过 issue 联系我们，或发送邮件至 teapot1de@qq.com。
 
 <p align="center">
   <img src="https://link-to-footer-image.com" width="200" alt="感谢支持" />
