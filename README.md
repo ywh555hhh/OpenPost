@@ -128,6 +128,3 @@ Canva 类似于程序员用的代码编辑器，比如 VSCode 或 PyCharm。正�
 
 感谢参与 **OpenPost**！有任何问题，欢迎通过 issue 联系我们，或发送邮件至 teapot1de@qq.com。
 
-<p align="center">
-  <img src="https://link-to-footer-image.com" width="200" alt="感谢支持" />
-</p>
